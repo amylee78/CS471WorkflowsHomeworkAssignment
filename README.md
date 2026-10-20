@@ -119,3 +119,8 @@ This wiki page is a workaround to the GitHub [`Insights` -> `Network`](https://g
 
 ## Step 8 - Canvas
 Answer the questions in the [Canvas](https://boisestatecanvas.instructure.com/) assignment.
+
+## Step 9 - hw 7 part 2 and extra credit
+For extra credit add  the [scumlinter app](https://github.com/apps/scrumlinter)
+second commit for part 2
+third commit for part 2
