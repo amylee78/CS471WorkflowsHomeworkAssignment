@@ -123,3 +123,4 @@ Answer the questions in the [Canvas](https://boisestatecanvas.instructure.com/) 
 ## Step 9 - hw 7 part 2 and extra credit
 For extra credit add  the [scumlinter app](https://github.com/apps/scrumlinter)
 second commit for part 2
+third commit for part 2
